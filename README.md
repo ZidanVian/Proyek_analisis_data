@@ -20,3 +20,4 @@ pip install -r requirements.txt
 ```
 streamlit run Dashboard.py
 ```
+## jujur gapaham tadi bisa, pas ambil requirement jadi ga bisa
